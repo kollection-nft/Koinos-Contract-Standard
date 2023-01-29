@@ -1,3 +1,11 @@
+# Moved to Official Koinos Group GitHub
+
+## Update: we're pleased to say that this process has been officially adopted by the community and moved to the official Koinos Github.
+
+## [You can now find it here.](https://github.com/koinos/koinos-contract-standards)
+
+For historical purposes we're leaving the original repo available here.
+
 # Koinos Contract Standard (KCS)
 
 This repository is to track and propose smart contract standards for the Koinos Blockchian. While this is not an "official" Koinos repo, since there was nothing like this available and we [(Kollection Inc.)](https://kollection.app) had a standard to propose we decided to take the initiative to put this in place. It's our hope that this repo will eventually be forked somewhere else and can become part of an "official" process as decided by the Koinos community. Until that time we're happy to get this process rolling.
